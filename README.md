@@ -1,7 +1,7 @@
 Hi! My name is Antony Kariuki 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Kenya.
+🌍  I am a Front-End Developer based in Nairobi, Kenya.
 <br/>
 
 ### Skills
@@ -12,7 +12,7 @@ Hi! My name is Antony Kariuki 😄
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="www.linkedin.com/in/antony-kariuki-54b6a02ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
